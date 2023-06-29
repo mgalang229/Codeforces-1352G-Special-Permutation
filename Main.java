@@ -20,7 +20,7 @@ import java.util.StringTokenizer;
 1 3 5 7 9 11 13 15 17 14 16 12 10 8 6 4 2
 
 for odd:
-- swap(p[n/2+1], p[n/2+2])
+- swap(p[n/2+2], p[n/2+3])
 - except for n = 3
 
 ------------------------
